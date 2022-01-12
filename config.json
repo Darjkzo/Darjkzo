@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.me",
-	"port": "25565",
-	"name": "NRBot",
+	"ip":"mcares.aternos.me",
+	"port": "62747",
+	"name": "24hsBot",
 	"auto-night-skip":"false"
 }
